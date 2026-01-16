@@ -6,11 +6,15 @@ This project integrates different components such as the STM32L476 Nucleo, 4x4 k
 
 
 Specifics:
-	•	Waveform type: Sine, Square, Triangle, Sawtooth
-	•	Frequency: Adjustable in real-time
-	•	Duty Cycle: For square wave
-	•	Amplitude: 3V
-	•	Real-time updates: Through oscilloscope interface
+	• Waveform type: Sine, Square, Triangle, Sawtooth
+	
+	• Frequency: Adjustable in real-time
+	
+	• Duty Cycle: For square wave
+	
+	• Amplitude: 3V
+	
+	• Real-time updates: Through oscilloscope interface
 
 * This project was created as part of an embedded systems course.
 
@@ -19,13 +23,16 @@ Specifics:
 Hardware & Tools
 
 Hardware
-	•	STM32L476RG Nucleo board
-	•	USB-Mini cable (data-capable)
-	•	Oscilloscope for waveform visualization
+	• STM32L476RG Nucleo board
+	
+	• USB-Mini cable (data-capable)
+	
+	• Oscilloscope for waveform visualization
 
 Software
-	•	STM32CubeIDE 1.15.0
-	•	Git for version control
+	• STM32CubeIDE 1.15.0
+	
+	• Git for version control
 
 ## Author
 Elizabeth Acevedo
