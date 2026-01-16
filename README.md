@@ -16,7 +16,7 @@ Specifics:
 
 ⸻
 
-🛠️ Hardware & Tools
+Hardware & Tools
 
 Hardware
 	•	STM32L476RG Nucleo board
