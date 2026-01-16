@@ -1,7 +1,4 @@
 # Simulated Function Generator
-## Author
-Elizabeth Acevedo
-
 A software-defined function generator implemented on the STM32L476 Nucleo board, capable of generating sine, square, triangle, and sawtooth waveforms.
 
 ## Description
@@ -30,3 +27,5 @@ Software
 	•	STM32CubeIDE 1.15.0
 	•	Git for version control
 
+## Author
+Elizabeth Acevedo
