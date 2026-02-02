@@ -37,5 +37,8 @@ Software
 	
 	• Git for version control
 
+## Demo
+[▶️ Watch the demo video](demo/Simulated_Function_Generator_Demo.mp4)
+
 ## Author
 Elizabeth Acevedo
